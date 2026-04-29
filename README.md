@@ -1,6 +1,4 @@
-[<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="600">
-</p>](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif
 # ☠️ Hi, I'm Rekhansh Rajput ☠️
 
 <p align="center">
