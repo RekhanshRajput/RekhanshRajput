@@ -16,7 +16,6 @@
 
 ```text
 Name     : Rekhansh Rajput
-Alias    : DarkSniper_X
 Role     : Security Researcher
 Focus    : Web Security | Bug Bounty | OSINT
 System   : Linux ⚡
