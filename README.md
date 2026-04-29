@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="600">
+</p>
 # ☠️ Hi, I'm Rekhansh Rajput ☠️
 
 <p align="center">
