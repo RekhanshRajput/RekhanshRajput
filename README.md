@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/matrix.gif" width="700">
-</p>
-
-<h1 align="center">☠️ I AM REKHANSH RAJPUT ☠️</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&size=25&lines=Security+Researcher;Vulnerability+Hunter;Bug+Bounty+Learner;DarkSniper_X">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Hacker-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/System-Linux-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-critical?style=for-the-badge">
-</p>
-
 # ☠️ Hi, I'm Rekhansh Rajput ☠️
 
 <p align="center">
