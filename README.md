@@ -16,7 +16,7 @@
 
 ```text
 Name     : Rekhansh Rajput
-Role     : Security Researcher
+Role     : Security Researcher ! Bug Hunter
 Focus    : Web Security | Bug Bounty | OSINT
 System   : Linux ⚡
 ```
