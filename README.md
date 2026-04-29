@@ -1,35 +1,82 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rekhansh Rajput</h1>
-<h3 align="center">Security Researcher | Vulnerability Hunter | Bug Hunter</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+# ☠️ Hi, I'm Rekhansh Rajput ☠️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rekhanshrajput&label=Profile%20views&color=0e75b6&style=flat" alt="rekhanshrajput" /> </p>
-
-- 🔭 I’m currently working on **Automation Script**
-
-- 🌱 I’m currently learning **Web Security, Bug Bounty, Python Automation, Linux**
-
-- 👯 I’m looking to collaborate on **Python Projects | Bug Bounty Research**
-
-- 🤝 I’m looking for help with **OSINT automation**
-
-- 💬 Ask me about **Web Security, Bug Bounty, OSINT, Python, Linux**
-
-- 📫 How to reach me **rekhanshrajput@gmail.com**
-
-- ⚡ Fun fact **Code | Break | Secure**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rekhanshrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rekhanshrajput" height="30" width="40" /></a>
-<a href="https://instagram.com/rekhansh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rekhansh_rajput" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Security+Researcher;Vulnerability+Hunter;Bug+Bounty+Learner;Automation+Developer;Linux+Enthusiast">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Hacker-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Security-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning-critical?style=for-the-badge">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekhanshrajput&show_icons=true&locale=en&layout=compact" alt="rekhanshrajput" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rekhanshrajput&show_icons=true&locale=en" alt="rekhanshrajput" /></p>
+## 💀 SYSTEM PROFILE
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekhanshrajput&" alt="rekhanshrajput" /></p>
+```text
+Name     : Rekhansh Rajput
+Alias    : DarkSniper_X
+Role     : Security Researcher
+Focus    : Web Security | Bug Bounty | OSINT
+System   : Linux ⚡
+```
+
+---
+
+## 🔥 CURRENT OPERATIONS
+
+* 🔭 Working on → Python Automation Scripts
+* 🌱 Learning → Web Security, Bug Bounty, Linux
+* 👯 Open to → Python Projects & Security Research
+* 🤝 Need Help → OSINT Automation
+* 💬 Ask Me → Web Security, Python, Linux, OSINT
+
+---
+
+## ⚙️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,vscode">
+</p>
+
+---
+
+## 📡 CONNECT
+
+* 📧 Email → **[rekhanshrajput@gmail.com](mailto:rekhanshrajput@gmail.com)**
+
+---
+
+## 🩸 PHILOSOPHY
+
+```text
+Code → Break → Secure
+```
+
+---
+
+## ⚡ LIVE STATUS
+
+```text
+[ SYSTEM ] → ONLINE
+[ MODE   ] → HACKING
+[ TARGET ] → KNOWLEDGE
+[ STATUS ] → EVOLVING
+```
+
+---
+
+## 🧠 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rekhanshrajput&show_icons=true&theme=radical">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhanshrajput&theme=radical">
+</p>
+
+---
+
+## ☠️ FINAL NOTE
+
+> Stay curious. Stay dangerous. Keep learning. 🚀
