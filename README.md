@@ -12,7 +12,7 @@
 
 ---
 
-## 💀 SYSTEM PROFILE
+## 💀 PROFILE
 
 ```text
 Name     : Rekhansh Rajput
