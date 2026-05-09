@@ -64,14 +64,16 @@ System   : Linux ⚡
 
 # 📌 PINNED PROJECTS
 
-## 🚀 Phoenix-MD-Bot
+# 📌 PINNED PROJECTS
+
+## 🚀 ReconX
+
+ℹ️ Advanced Web Recon Automation Toolkit!
 
 ```text
-ℹ️ A Simple But Advanced WhatsApp Bot!
-
-Language : JavaScript
-Stars    : 157
-Forks    : 250
+Language : Python
+Focus    : Web Reconnaissance
+Type     : Security Automation
 ```
 
 ---
