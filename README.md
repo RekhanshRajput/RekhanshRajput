@@ -52,17 +52,16 @@ System   : Linux ⚡
 # ⚡ CONTRIBUTIONS IN THE LAST YEAR
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekhanshrajput&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RekhanshRajput&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rekhanshrajput&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?theme=radical">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rekhanshrajput&theme=radical&utcOffset=5.5">
 </p>
 
 ---
 
-# 📌 PINNED PROJECTS
 
 # 📌 PINNED PROJECTS
 
