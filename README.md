@@ -91,13 +91,14 @@ Type     : Security Automation
 # 🧠 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekhanshrajput&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rekhanshrajput&show_icons=true&theme=radical&hide_border=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhanshrajput&theme=radical" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhanshrajput&layout=compact&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rekhanshrajput&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhanshrajput&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 # 📡 CONNECT
 
