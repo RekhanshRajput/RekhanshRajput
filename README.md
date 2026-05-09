@@ -12,50 +12,71 @@
 
 ---
 
-## 💀 PROFILE
+# 💀 PROFILE
 
 ```text
 Name     : Rekhansh Rajput
-Role     : Security Researcher ! Bug Hunter
+Role     : Security Researcher | Bug Hunter
 Focus    : Web Security | Bug Bounty | OSINT
 System   : Linux ⚡
 ```
 
 ---
 
-## 🔥 CURRENT OPERATIONS
+# 🔥 CURRENT OPERATIONS
 
-* 🔭 Working on → Python Automation Scripts
-* 🌱 Learning → Web Security, Bug Bounty, Linux
-* 👯 Open to → Python Projects & Security Research
-* 🤝 Need Help → OSINT Automation
-* 💬 Ask Me → Web Security, Python, Linux, OSINT
+- 🔭 Working on → Python Automation Scripts
+- 🌱 Learning → Web Security, Bug Bounty, Linux
+- 👯 Open to → Python Projects & Security Research
+- 🤝 Need Help → OSINT Automation
+- 💬 Ask Me → Web Security, Python, Linux, OSINT
 
 ---
 
-## ⚙️ TECH STACK
+# ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,vscode">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,vscode,javascript,mongodb">
 </p>
 
 ---
 
-## 📡 CONNECT
+# 📈 CODING ACTIVITY GRAPH
 
-* 📧 Email → **[rekhanshrajput@gmail.com](mailto:rekhanshrajput@gmail.com)**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rekhanshrajput&theme=react-dark&hide_border=true&area=true">
+</p>
 
 ---
 
-## 🩸 PHILOSOPHY
+# ⚡ CONTRIBUTIONS IN THE LAST YEAR
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekhanshrajput&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rekhanshrajput&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rekhanshrajput&theme=radical&utcOffset=5.5">
+</p>
+
+---
+
+# 📌 PINNED PROJECTS
+
+## 🚀 Phoenix-MD-Bot
 
 ```text
-Code → Break → Secure
+ℹ️ A Simple But Advanced WhatsApp Bot!
+
+Language : JavaScript
+Stars    : 157
+Forks    : 250
 ```
 
 ---
 
-## ⚡ LIVE STATUS
+# ⚡ LIVE STATUS
 
 ```text
 [ SYSTEM ] → ONLINE
@@ -66,16 +87,32 @@ Code → Break → Secure
 
 ---
 
-## 🧠 GITHUB STATS
+# 🧠 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rekhanshrajput&show_icons=true&theme=radical">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhanshrajput&theme=radical">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhanshrajput&layout=compact&theme=radical">
 </p>
 
 ---
 
-## ☠️ FINAL NOTE
+# 📡 CONNECT
+
+- 📧 Email → **rekhanshrajput@gmail.com**
+
+---
+
+# 🩸 PHILOSOPHY
+
+```text
+Code → Break → Secure
+```
+
+---
+
+# ☠️ FINAL NOTE
 
 > Stay curious. Stay dangerous. Keep learning. 🚀
