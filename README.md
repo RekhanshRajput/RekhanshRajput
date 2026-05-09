@@ -92,7 +92,6 @@ Type     : Security Automation
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rekhanshrajput&show_icons=true&theme=radical&hide_border=true" />
-  
   <img width="49%" src="https://streak-stats.demolab.com?user=rekhanshrajput&theme=radical&hide_border=true" />
 </p>
 
